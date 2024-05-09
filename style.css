@@ -350,7 +350,6 @@ border-radius: 5%;
 }
 #img4{
     margin-left:92px;
-
 }
 #img5{
 margin-left: 90px;    
@@ -360,5 +359,23 @@ margin-left: 90px;
 }
 #img7{
     margin-left: 171px;    
+}
+footer{
+    background-color: black;
+    display:flex;
+    justify-content: space-around;
+}
+
+#email{
+height: 50px;
+width: 200px;
+}
+input{
+    height: 30px;
+    width: 350px;  
+    border-radius: 5%;
+}
+#c{
+    background-color: black;
 }
  
